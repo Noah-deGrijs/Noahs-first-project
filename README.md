@@ -8,4 +8,4 @@ Mijn file brengt je naar een website over Ajax Amsterdam
 187748
 # Info
 Dit is mijn eerst project met GitHub en het gaat over Ajax Amsterdam.
-
+[Ajax](Ajax.html)
