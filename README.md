@@ -1,3 +1,10 @@
 # Noahs-first-project
 Mijn eigen gemaakte website.
-# Dit is mijn eerst project met GitHub en het gaat over Ajax Amsterdam.
+# Noah GitHub
+Ajax.html is mijn eigen gemaakte website
+# Functie
+Mijn file brengt je naar een website over Ajax Amsterdam
+# studentennummer
+187748
+# Info
+Dit is mijn eerst project met GitHub en het gaat over Ajax Amsterdam.
